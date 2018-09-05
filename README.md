@@ -7,4 +7,4 @@ https://github.com/l164387/l164387.github.io.git
 
 https://github.com/l164387/l164387.github.io/repository
 
-https://l164387.github.com/l164387-github.io
+https://l164387.github.com/l164387.cvrepo
