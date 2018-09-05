@@ -3,4 +3,4 @@
  http://l164387.github.io
 
 ## you can check my repository project file by clicking this link
-https://l164387.github.io/l164387-l164387.github.io/
+https://l164387.github.io/l164387-point/
